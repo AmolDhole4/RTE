@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-19T14:55:48 IST" name="Suite" finished-at="2025-02-19T14:56:13 IST" duration-ms="24379">
+    <groups>
+    </groups>
+    <test started-at="2025-02-19T14:55:48 IST" name="Test" finished-at="2025-02-19T14:56:13 IST" duration-ms="24379">
+      <class name="RTE.RTEVER">
+        <test-method signature="test(java.lang.String)[pri:0, instance:RTE.RTEVER@4e08711f]" started-at="2025-02-19T14:55:49 IST" name="test" data-provider="logindata" finished-at="2025-02-19T14:56:01 IST" duration-ms="12286" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25PU044923]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test(java.lang.String)[pri:0, instance:RTE.RTEVER@4e08711f]" started-at="2025-02-19T14:56:01 IST" name="test" data-provider="logindata" finished-at="2025-02-19T14:56:13 IST" duration-ms="12045" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[25PU067548]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- RTE.RTEVER -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
